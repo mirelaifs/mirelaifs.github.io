@@ -9,4 +9,4 @@ I am trained with both techniques and offer consultations in both English and Ro
 
 Contact me for a first free video consultation(30 min) to assess if we can work with each other:
 
-[Email]: (./contact.html)
+[Email] : (mire.budaes@gmail.com)
