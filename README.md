@@ -7,6 +7,4 @@ In my search for life balance I come across two techniques that improved my life
 
 I am trained with both techniques and offer consultations in both English and Romanian languages.
 
-Contact me for a first free video consultation(30 min) to assess if we can work with each other:
-
-[Email](./2023/03/24/contact.html)
+[Contact me](./2023/03/24/contact.html) for a first free video consultation(30 min) to assess if we can work with each other.
