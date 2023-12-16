@@ -8,5 +8,3 @@ In my search for life balance, I came across two techniques that improved my lif
 I am trained in both techniques and offer consultations in both English and Romanian.
 
 [Contact me](./2023/03/24/contact.html) for a first free video consultation(30 min) to assess if we can work with each other.
-
-[Coaching description in romanian](./2023/12/16/coaching-description.html)
