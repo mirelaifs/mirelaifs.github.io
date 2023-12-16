@@ -34,7 +34,7 @@ Coaching-ul te va ajuta sa accelerezi si sa preiei controlul asupra schimbarilor
 
 ## Care sunt rezultatele coaching-ului?
 
-* Cresterea auto-acceptarii, increderii si si autoritatii personale
+* Cresterea auto-acceptarii, increderii si autoritatii personale
 * Cresterea inteligentei emotionale si si capacitatea de a naviga mai usor provocarile
 * Identificarea convingerilor limitative si creearea unor convingeri imputernicitoare
 * Claritate asupra viziunii personale si profesionale, miscare catre acea viziune cu actiuni practice
