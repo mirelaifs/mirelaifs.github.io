@@ -1,3 +1,9 @@
 theme: jekyll-theme-architect
 title: Mirela Budăeş
 description: Personal Coaching
+
+navigation:
+  - title: Mirela Budăeş
+    url: /
+  - title: How do I work?
+    url: /how-do-i-work/
